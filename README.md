@@ -1,1 +1,1 @@
-a simple timer to improve my javascript skills
+a simple clock to improve my javascript skills
